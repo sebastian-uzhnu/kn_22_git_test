@@ -1,0 +1,14 @@
+/Users/sebastian/Downloads/KN_22_Git_Test/KN_22_Git_Test/bin/Debug/net9.0/KN_22_Git_Test
+/Users/sebastian/Downloads/KN_22_Git_Test/KN_22_Git_Test/bin/Debug/net9.0/KN_22_Git_Test.deps.json
+/Users/sebastian/Downloads/KN_22_Git_Test/KN_22_Git_Test/bin/Debug/net9.0/KN_22_Git_Test.runtimeconfig.json
+/Users/sebastian/Downloads/KN_22_Git_Test/KN_22_Git_Test/bin/Debug/net9.0/KN_22_Git_Test.dll
+/Users/sebastian/Downloads/KN_22_Git_Test/KN_22_Git_Test/bin/Debug/net9.0/KN_22_Git_Test.pdb
+/Users/sebastian/Downloads/KN_22_Git_Test/KN_22_Git_Test/obj/Debug/net9.0/KN_22_Git_Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastian/Downloads/KN_22_Git_Test/KN_22_Git_Test/obj/Debug/net9.0/KN_22_Git_Test.AssemblyInfoInputs.cache
+/Users/sebastian/Downloads/KN_22_Git_Test/KN_22_Git_Test/obj/Debug/net9.0/KN_22_Git_Test.AssemblyInfo.cs
+/Users/sebastian/Downloads/KN_22_Git_Test/KN_22_Git_Test/obj/Debug/net9.0/KN_22_Git_Test.csproj.CoreCompileInputs.cache
+/Users/sebastian/Downloads/KN_22_Git_Test/KN_22_Git_Test/obj/Debug/net9.0/KN_22_Git_Test.dll
+/Users/sebastian/Downloads/KN_22_Git_Test/KN_22_Git_Test/obj/Debug/net9.0/refint/KN_22_Git_Test.dll
+/Users/sebastian/Downloads/KN_22_Git_Test/KN_22_Git_Test/obj/Debug/net9.0/KN_22_Git_Test.pdb
+/Users/sebastian/Downloads/KN_22_Git_Test/KN_22_Git_Test/obj/Debug/net9.0/KN_22_Git_Test.genruntimeconfig.cache
+/Users/sebastian/Downloads/KN_22_Git_Test/KN_22_Git_Test/obj/Debug/net9.0/ref/KN_22_Git_Test.dll
