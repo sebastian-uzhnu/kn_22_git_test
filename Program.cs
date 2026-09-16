@@ -8,6 +8,6 @@ class Program
     {
         var game = new Game();
         game.Start();
-        Console.WriteLine("KN_22");
+        Console.WriteLine("KN_22 __");
     }
 }
