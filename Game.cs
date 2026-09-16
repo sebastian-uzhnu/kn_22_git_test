@@ -5,7 +5,7 @@ public class Game
     public void Start()
     {
         Console.ForegroundColor = ConsoleColor.Red;
-        Console.WriteLine("Game is starting");
+        Console.WriteLine("Я щось оновив");
         Console.ResetColor();
     }
 }
